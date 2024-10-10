@@ -1,0 +1,17 @@
+[2024-10-01] Committing: assets/delete_employee.png
+[2024-10-01] Committing: assets/insert_employee.png
+[2024-10-02] Skipping day
+[2024-10-03] Committing: assets/insert_employee_2.png
+[2024-10-04] Committing: assets/intro.png
+[2024-10-04] Committing: assets/post_update_employee.png
+[2024-10-05] Skipping day
+[2024-10-06] Skipping day
+[2024-10-07] Committing: assets/select_employee.png
+[2024-10-08] Committing: assets/select_query1.png
+[2024-10-08] Committing: assets/select_query2.png
+[2024-10-08] Committing: assets/update_employee.png
+[2024-10-09] Committing: assets/update_employee_1.png
+[2024-10-09] Committing: assets/update_employee_2.png
+[2024-10-09] Committing: assets/update_employee_3.png
+[2024-10-10] Committing: backdated_push.sh
+[2024-10-10] Committing: commit_log.txt
